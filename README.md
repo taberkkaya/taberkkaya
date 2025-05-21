@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Ataberk 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/taberkkaya/CleanArch.Template/blob/main/assets/logo.jpg?raw=true" alt="Logo" width="120" />
-</p>
-
 <h2 align="center">Full Stack Developer</h2>
 
 <p align="center">
