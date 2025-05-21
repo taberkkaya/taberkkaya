@@ -13,16 +13,9 @@
 </p>
 
 ---
-
 <p align="center">
- Let's build cool stuff together! 👨‍💻  
+  <a href="https://www.linkedin.com/in/taberkkaya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn"/>
+  </a>
 </p>
-
-
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/taberkkaya/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn"/>
-    </a>
-  </p>
 
