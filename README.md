@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ataberk 👋</h1>
 
-<h2 align="center">Full Stack Developer</h2>
+<h2 align="center">Full Stack Developer | .NET | Angular</h2>
 
 <p align="center">
   🔥 Passionate about building clean, scalable, and modular web apps with modern technologies.
